@@ -2,8 +2,10 @@
 
 #### Architect and Senior Engineer
 
-[Resume](Resume.md)
-[Presentations](Speaking.md)
+
+[See my Resume](Resume.md)
+
+[Check out my presentations and speaking engagements.](Speaking.md)
 
 <!--
 **jenningstcj/jenningstcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
