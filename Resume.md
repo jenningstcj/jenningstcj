@@ -4,7 +4,7 @@
 
 I am a fullstack engineer and architect who has a broad background in technology and is able to bring a lot of expertise to the table.  Early on in my career I was a systems administrator maintaining servers and enterprise software.  Later on I became a network engineer and was Network+ and Cisco CCNA certified.  However, my real passion is building things that help people and provide value.  I have been a full-time software engineer for over a decade.  In that time I have used a plethora of technologies to solve problems including, but not limited to C#/.NET, Node/Express, TypeScript, Angular, AngularJS, React, AWS Services, Azure Cloud, Ionic, React Native, Flutter, PostgreSQL, MS SQL, MySQL, DynamoDB, SNS, SQS, SES, ECS, EKS, EC2, Elastic Beanstalk, and more.  I have architected large systems and lead teams implementing those systems and enjoyed teaching and mentoring my teams along the way.  Most of all I have enjoyed seeing the success my work as brought to countless clients.
 
-### Experience
+## Experience
 
 **Senior Software Engineer** @ Rocket Central, _Remote_, August 2022 - Present
 
@@ -42,12 +42,12 @@ Ending title was Software Developer. Started out in IT Support and did field sup
 Image, deploy, install, maintain, and repair over 850 computers in an AD domain environment. Design and implement new Group Policy Objects and structure. Respond to and resolve technical issues submitted by faculty, staff, and students. Install and maintain Symantec Ghost Solutions Suite imaging server and maintain images and backups. Create and maintain hardware inventory. Configure and maintain campus WOL configuration and power-savings plan. Create PowerShell scripts to make tasks more efficient.
 
 
-### Education
+## Education
 Bachelors from
 Carson-Newman College,
 Jefferson City, TN
 
-### MOST RECENT NOTABLE PROJECTS
+## MOST RECENT NOTABLE PROJECTS
 
 **Zoës Kitchen — Whole System** 
 
@@ -57,7 +57,7 @@ Team Lead, architected and implemented an entire new online system for Zoes Kitc
 
 Team Lead, architected and implemented an entire new mobile platform for Truck2Table including backend server, database, email processing, and multiple React Native mobile apps for their various audiences and offerings. We helped Truck2Table go from idea to reality, consulting along the way using prior experience in the food industry. Today they not only help farmers more easily make direct sales with local consumers and organize deliveries, but also provide low-cost and nutritious food packages for low-income families and individuals.
 
-### MOST RECENT CONFERENCE PRESENTATIONS
+## MOST RECENT CONFERENCE PRESENTATIONS
 
 **Serverless Microservices through Serverless Framework**
 
