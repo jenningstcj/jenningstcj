@@ -2,6 +2,12 @@
 
 I enjoy sharing knowledge, mentoring, and teaching.  Here are some of the presentations I have done over the years.
 
+## 2023
+
+### Lunch and Learn presentations:
+
+- Advanced TypeScript @ Rocket Central (Jan. 31st)
+
 ## 2022
 
 ### Conferences:
