@@ -8,7 +8,7 @@ I enjoy sharing knowledge, mentoring, and teaching.  Here are some of the presen
 
 - Advanced TypeScript @ Rocket Central (Jan. 31st)
 - Logging - What and Why @ Rocket Mortgage (Oct. 4th)
-- LocalStack Training @ Rocket Mortgage (Oct. 18th)
+- LocalStack Workshop @ Rocket Mortgage (Oct. 18th)
 
 ## 2022
 
