@@ -7,6 +7,8 @@ I enjoy sharing knowledge, mentoring, and teaching.  Here are some of the presen
 ### Lunch and Learn presentations:
 
 - Advanced TypeScript @ Rocket Central (Jan. 31st)
+- Logging - What and Why @ Rocket Mortgage (Oct. 4th)
+- LocalStack Training @ Rocket Mortgage (Oct. 18th)
 
 ## 2022
 
