@@ -2,6 +2,12 @@
 
 I enjoy sharing knowledge, mentoring, and teaching.  Here are some of the presentations I have done over the years.
 
+## 2024
+
+### Conferences
+
+ - Advanced TypeScript @ Connect.Tech(Nov 19th)
+
 ## 2023
 
 ### Lunch and Learn presentations:
